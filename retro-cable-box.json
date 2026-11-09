@@ -1,0 +1,132 @@
+{
+  "plugin": 1,
+  "id": "pack-space",
+  "name": "Space Pack",
+  "description": "NASA mission films: Mercury, Gemini, Apollo, Skylab and the Space Shuttle.",
+  "version": "1.0.0",
+  "channels": [
+    {
+      "id": "space-race",
+      "num": 20,
+      "name": "SPACE RACE",
+      "category": "Space",
+      "blurb": "Mercury, Gemini and Apollo, in NASA's own films.",
+      "sources": [
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "project_mercury_mr-1_launch"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "project_mercury_freedom_7"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "four_days_of_gemini_4"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "gemini_xi"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "gemini_x_a_quick_look"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "FlightOfApollo7"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "apollo13_houston_weve_got_a_problem"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Apollo17-OnTheShouldersOfGiants"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "gov.ntis.ava03129vnb1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skylab-shuttle",
+      "num": 21,
+      "name": "SKYLAB & SHUTTLE",
+      "category": "Space",
+      "blurb": "Skylab, the Space Shuttle and Mir, from NASA.",
+      "sources": [
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Skylab_TheFirst40Days"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "ShuttleMirHistory"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "SpaceShuttleSts-126Launch_413"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "NASA_Launchpad_Shuttle_Experience_HD"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "NASA_Launchpad_What_It_Took_HD"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "NASA_Real_World_Because_It_Flew_HD"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "NASA_Launchpad_SSMEs_HD"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "RealWorldCalculatingShuttleLaunchWindows"
+          }
+        }
+      ],
+      "rules": {
+        "shuffleSeed": 1981
+      }
+    }
+  ]
+}
