@@ -3,7 +3,7 @@
   "id": "pack-space",
   "name": "Space Pack",
   "description": "NASA mission films: Mercury, Gemini, Apollo, Skylab and the Space Shuttle.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "channels": [
     {
       "id": "space-race",
@@ -15,55 +15,64 @@
         {
           "source": {
             "kind": "archive",
-            "identifier": "project_mercury_mr-1_launch"
+            "identifier": "project_mercury_mr-1_launch",
+            "file": "project_mercury_mr-1_launch.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "project_mercury_freedom_7"
+            "identifier": "project_mercury_freedom_7",
+            "file": "project_mercury_freedom_7.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "four_days_of_gemini_4"
+            "identifier": "four_days_of_gemini_4",
+            "file": "four_days_of_gemini_4.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "gemini_xi"
+            "identifier": "gemini_xi",
+            "file": "gemini_xi.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "gemini_x_a_quick_look"
+            "identifier": "gemini_x_a_quick_look",
+            "file": "gemini_x_a_quick_look.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "FlightOfApollo7"
+            "identifier": "FlightOfApollo7",
+            "file": "flight_of_apollo_7.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "apollo13_houston_weve_got_a_problem"
+            "identifier": "apollo13_houston_weve_got_a_problem",
+            "file": "apollo_13_houston_weve_got_a_problem.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Apollo17-OnTheShouldersOfGiants"
+            "identifier": "Apollo17-OnTheShouldersOfGiants",
+            "file": "Apollo17.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "gov.ntis.ava03129vnb1"
+            "identifier": "gov.ntis.ava03129vnb1",
+            "file": "ava03129vnb1_512kb.mp4"
           }
         }
       ]
@@ -78,49 +87,50 @@
         {
           "source": {
             "kind": "archive",
-            "identifier": "Skylab_TheFirst40Days"
+            "identifier": "Skylab_TheFirst40Days",
+            "file": "Skylab.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "ShuttleMirHistory"
+            "identifier": "SpaceShuttleSts-126Launch_413",
+            "file": "290695main_ksc_111408_sts126_launch.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "SpaceShuttleSts-126Launch_413"
+            "identifier": "NASA_Launchpad_Shuttle_Experience_HD",
+            "file": "NASA_Launchpad_Shuttle_Experience_cropped_Med.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "NASA_Launchpad_Shuttle_Experience_HD"
+            "identifier": "NASA_Launchpad_What_It_Took_HD",
+            "file": "Nasa_launchpad_whatItTook_cropped_med.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "NASA_Launchpad_What_It_Took_HD"
+            "identifier": "NASA_Real_World_Because_It_Flew_HD",
+            "file": "NASA_Real_World_Because_It_Flew_cropped.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "NASA_Real_World_Because_It_Flew_HD"
+            "identifier": "NASA_Launchpad_SSMEs_HD",
+            "file": "NASA_Launchpad_SSMEs_HD.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "NASA_Launchpad_SSMEs_HD"
-          }
-        },
-        {
-          "source": {
-            "kind": "archive",
-            "identifier": "RealWorldCalculatingShuttleLaunchWindows"
+            "identifier": "RealWorldCalculatingShuttleLaunchWindows",
+            "file": "Rw40windowOc.ia.mp4"
           }
         }
       ],
